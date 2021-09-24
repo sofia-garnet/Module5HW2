@@ -1,0 +1,11 @@
+table {
+  margin-top: 50%;
+}
+
+table tr:nth-child(3) {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+table tr:nth-child(2n){
+  background-color: #ADD8E6;
+}
